@@ -1,0 +1,18 @@
+.container {
+    width:600px;
+    border:1px solid green;
+    margin:10px;
+    display: flex;
+    box-sizing: border-box;
+
+    
+ }
+
+ .child{
+    border:1px solid red;
+    box-sizing: border-box;
+    /* width: 100px; */
+    padding:10px;
+    margin-left: 5px;
+    height:100px;
+ }
